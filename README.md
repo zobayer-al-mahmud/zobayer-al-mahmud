@@ -1,6 +1,7 @@
 # 💫 About Me:
 # 💫 Hi 👋, I'm Zobayer Al Mahmud
-BSc in CSE at AIUB | UI/UX Designer | Web, App & Software Designer | Developer | Software Engineer| Game Developer
+BSc in CSE at AIUB | UI/UX Designer | Web, App & Software Designer | Developer | Software Engineer | Game Developer
+
 Email Me 👉 ✉️ **zobayeralmahmud0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🏆 GitHub Trophies
