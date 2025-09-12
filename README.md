@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 💫 Hi 👋, I'm Zobayer Al Mahmud
-UI/UX Designer | Web, App & Software Designer | Developer | Software Engineer |  Aspiring AI Engineer | Hobbyist Game Developer
+Aspiring AI Engineer | Software Engineer | UI/UX Designer | Frontend Developer | Game Development Enthusiast
 
 Email Me 👉 ✉️ **zobayeralmahmud0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
