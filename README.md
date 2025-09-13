@@ -1,6 +1,9 @@
 # 💫 About Me:
 # 💫 Hi 👋, I'm Zobayer Al Mahmud
-Aspiring AI Engineer | Software Engineer | UI/UX Designer | Frontend Developer | Game Development Enthusiast
+
+Driven by a passion for artificial intelligence, I aim to build intelligent systems that solve real-world problems and transform user experiences. My background in software engineering, UI/UX design, and frontend development gives me the unique ability to merge AI innovation with practical, human-centered design. While I focus on advancing in AI engineering, I also explore game development as a creative and technical outlet.
+
+📥 Let’s connect to drive innovation and enhance the digital world!
 
 Email Me 👉 ✉️ **zobayeralmahmud0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
